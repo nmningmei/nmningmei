@@ -5,7 +5,9 @@
 - Email: n.mei@bcbl.eu · nm2241@nyu.edu · semsociaty@gmail.com
 - Website: https://github.com/nmningmei/nmningmei
 - Open Science Framework: https://osf.io/chav7/
+
 ---
+
 # EDUCATION
 1. In progress
 <br />Basque Center for Brain, Cognitive, and Language (BCBL)
@@ -13,13 +15,15 @@
 2. 2016
 <br />New York University, New York, NY
 <br />M.A in Psychology (General)
-3. 2014	     
+3. 2014
 <br />Arizona State University, Tempe, AZ
 <br />B.A. in Psychology (minor in Statistics)        
 4. 2012
 <br />Guangzhou University of Traditional Chinese Medicine, Guangzhou, China
-<br />B.S. in Applied Psychology                                                       
+<br />B.S. in Applied Psychology
+
 ---
+
 # Publication
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5650544/)
 
@@ -34,7 +38,9 @@
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
 
 - [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 1](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v1)
+
 ---
+
 # CONFERENCE POSTERS
 - Teng, X., Mei, N., Tian, X., & Poeppel, D. (2016). Auditory temporal windows revealed by locally reversing Mandarin speech. Society for Neurobiology of Language, Poster (co-first-author), Cognitive Neuroscience Society, 2016
 
@@ -43,11 +49,15 @@
 - Mei, N., Sheikh, U., Santana, R., & Soto, D. (2019, September). How the brain encodes meaning: Comparing word embedding and computer vision models to predict fMRI data during visual word recognition. Cognitive Computational Neuroscience Conference, Berline, Germany.
 
 - Mei, N., & Soto, D. (2019, September). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. Cognitive Computational Neuroscience Conference, Berline, Germany.
+
 ---
+
 # AWARDS
 - Arizona State University, Dean’s list                                                                   2013, 2014
-- Data Science RoAD-Trip Award                                                                           2016 - 2017
+- Data Science RoAD-Trip Award                                                                            2016 - 2017
+
 ---
+
 # Research and Internships
 
 1. David Soto Group
@@ -110,7 +120,9 @@
     Research team, prisoner emotional health, Guangzhou, China        
       Intern
       - Collecting data about prisoners’ mental health assessments
+
 ---
+
 # Working experience
 
 1. Fall 2012 to Spring 2018
@@ -125,7 +137,9 @@
 
 2. March 2013 to present                                                
     Translator, MCC Translation, Phoenix, AZ           
+
 ---
+
 # SKILLS and CERTIFICATIONS
 ## Computer Skills:
 
@@ -173,14 +187,18 @@
 
 7. Beginner – Julia
     - Julia ikernel interacting with Jupyter projects                                                                  
+
 ---
+
 ## Samples of courses taken:
 - Calculus/Analytic Geometry I – III
 - Probability
 - Mathematical statistics
 - Simulation and Data Analysis
 - Mathematical Tools for Psychology and Neuroscience
+
 ---
+
 ## Statistics Skills:
 - Parametric statistics
 - Non-parametric statistics

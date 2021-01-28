@@ -9,16 +9,16 @@
 # EDUCATION
 1. In progress
 <br />Basque Center for Brain, Cognitive, and Language (BCBL)
-      Ph.D in Cognitive Neuroscience
+<br />Ph.D in Cognitive Neuroscience
 2. 2016
 <br />New York University, New York, NY
-      M.A in Psychology (General)
+<br />M.A in Psychology (General)
 3. 2014	     
 <br />Arizona State University, Tempe, AZ                                                                                          
-      B.A. in Psychology (minor in Statistics)        
+<br />B.A. in Psychology (minor in Statistics)        
 4. 2012
 <br />Guangzhou University of Traditional Chinese Medicine, Guangzhou, China                      
-      B.S. in Applied Psychology                                                       
+<br />B.S. in Applied Psychology                                                       
 ---
 # Publication
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5650544/)

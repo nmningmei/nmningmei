@@ -14,10 +14,10 @@
 <br />New York University, New York, NY
 <br />M.A in Psychology (General)
 3. 2014	     
-<br />Arizona State University, Tempe, AZ                                                                                          
+<br />Arizona State University, Tempe, AZ
 <br />B.A. in Psychology (minor in Statistics)        
 4. 2012
-<br />Guangzhou University of Traditional Chinese Medicine, Guangzhou, China                      
+<br />Guangzhou University of Traditional Chinese Medicine, Guangzhou, China
 <br />B.S. in Applied Psychology                                                       
 ---
 # Publication

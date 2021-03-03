@@ -2,7 +2,7 @@
 
 
 - Ph.D (in progress): Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
-- Email: n.mei@bcbl.eu · nm2241@nyu.edu · semsociaty@gmail.com
+- Email: n.mei@bcbl.eu
 - Website: https://github.com/nmningmei/nmningmei
 - Open Science Framework: https://osf.io/chav7/
 

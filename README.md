@@ -13,13 +13,13 @@
 <br />Basque Center for Brain, Cognitive, and Language (BCBL), Donostia/San Sebastian, Basque, Spain
 <br />Ph.D in Cognitive Neuroscience
 2. 2016
-<br />New York University, New York, NY, US
+<br />New York University (NYU), New York, NY, US
 <br />M.A in Psychology (General)
 3. 2014
-<br />Arizona State University, Tempe, AZ, US
+<br />Arizona State University (ASU), Tempe, AZ, US
 <br />B.A. in Psychology (minor in Statistics)        
 4. 2012
-<br />Guangzhou University of Traditional Chinese Medicine, Guangzhou,Guangdong, China
+<br />Guangzhou University of Traditional Chinese Medicine (UTCM), Guangzhou,Guangdong, China
 <br />B.S. in Applied Psychology
 
 ---

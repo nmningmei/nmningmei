@@ -51,6 +51,17 @@
 - Mei, N., & Soto, D. (2019, September). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. Cognitive Computational Neuroscience Conference, Berline, Germany.
 
 ---
+# Tutorials
+
+- [Solve probability problems of Reddit](https://github.com/nmningmei/intuitive_probability_games)
+- [Comparison of simple parametric and nonparametric statistical methods](https://github.com/nmningmei/parametric_nonparametric_statistics_comparison)
+- [Preprocessing pipelines for M/EEG and fMRI data](https://github.com/nmningmei/preprocessing_pipelines)
+- [Download EEG sleep data fro open science framework](https://github.com/nmningmei/Get_Sleep_data)
+- [BCBL repository of implementing deep learning models on cognitive neuroscience studies](https://github.com/nmningmei/Deep_learning_fMRI_EEG)
+- [Introduce of python libraries, i.e. Numpy](https://github.com/nmningmei/LevelUpPythonTutorial)
+- [BESA python reader, translated from Matlab scripts](https://github.com/nmningmei/BESA_readers)
+- [Simple implementation of openpose library without a GPU](https://github.com/nmningmei/openpose_capture)
+---
 
 # AWARDS
 - Arizona State University, Dean’s list                                                                   2013, 2014

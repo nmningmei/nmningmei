@@ -37,7 +37,7 @@
 
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
 
-- [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 1](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v1)
+- [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 2](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v2)
 
 ---
 

@@ -37,7 +37,7 @@
 
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
 
-- [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 2](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v2)
+- [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 4](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4)
 
 ---
 
@@ -76,11 +76,13 @@
       - Running psychophysics experiments, fMRI experiments, data analysis (M/EEG, fMRI, behavioral, etc)
       - Ongoing project:
       
-            a. Deep neural network models represent latent space of Spanish/Basque unconscious noun words that belong to different semantic categories
+            a. [Benchmarking decoding models of Spanish/Basque conscious/unconscious noun words in various conditions (i.e. read, dep process, social conditions)](https://github.com/nmningmei/METASEMA_encoding_model)
       
-            b. Benchmarking decoding models of Spanish/Basque conscious/unconscious noun words in various conditions (i.e. read, dep process, social conditions)
-      
-            c. How computer vision and semantic representation models provide insights of unconscious processing of object images and their semantic categories
+            b. [How computer vision and semantic representation models provide insights of unconscious processing of object images and their semantic categories](https://github.com/nmningmei/unconfeats)
+            
+            c. How the history of behavioral pattern could predict the future confidence rating, [a](https://github.com/nmningmei/decoding_confidence_dataset), [b](https://github.com/nmningmei/Decode_confidence_dataset)
+            
+            d. [Ecoding-based representational similarity analysis](https://github.com/nmningmei/metasema_encoding_based_RSA)
 
 2. Fall 2014 – Fall 2017
     David Poeppel Lab (NYU)                                                                            

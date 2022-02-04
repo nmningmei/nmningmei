@@ -27,15 +27,68 @@
 # Publication
 
 - [Mei, N. Santana, R., & Soto, D. (2022). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Nature Human Behavior. https://doi.org/10.1038/s41562-021-01274-7](https://www.nature.com/articles/s41562-021-01274-7) [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4.abstract)
-
+```
+@article{ning2022informative,
+  title={Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks},
+  author={Mei, Ning and Santana, Roberto and Soto, David},
+  journal={Nature Human Behavior},
+  year={2022},
+  DOI={\url{https://doi.org/10.1038/s41562-021-01274-7}}
+}
+```
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
-
+```
+@article{soto2020decoding,
+  title={Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning},
+  author={Soto, David and Sheikh, Usman Ayub and Mei, Ning and Santana, Roberto},
+  journal={Royal Society open science},
+  volume={7},
+  number={5},
+  pages={192043},
+  year={2020},
+  publisher={The Royal Society}
+}
+```
 - [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (2020). Similar history biases for distinct prospective decisions of self-performance. Scientific Reports, 10:5854. Doi:10.1038/s41598-020-62719-z](https://www.nature.com/articles/s41598-020-62719-z)
+```
+@article{mei2020similar,
+  title={Similar history biases for distinct prospective decisions of self-performance},
+  author={Mei, Ning and Rankine, Sean and Olafsson, Einar and Soto, David},
+  journal={Scientific reports},
+  volume={10},
+  number={1},
+  pages={1--13},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
 
+```
 - [Mei, N., Flinker, A., Zhu, M., Cai, Q., And Tian, X. (2020). Lateralization in the dichotic listening of tones is influenced by the content of speech. Neuropsychologia](https://www.researchgate.net/publication/339151652_Lateralization_in_the_dichotic_listening_of_tones_is_influenced_by_the_content_of_speech)
+```
+@article{mei2020lateralization,
+  title={Lateralization in the dichotic listening of tones is influenced by the content of speech},
+  author={Mei, Ning and Flinker, Adeen and Zhu, Miaomiao and Cai, Qing and Tian, Xing},
+  journal={Neuropsychologia},
+  volume={140},
+  pages={107389},
+  year={2020},
+  publisher={Elsevier}
+}
 
+```
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5650544/)
+```
+@article{mei2017identifying,
+  title={Identifying sleep spindles with multichannel EEG and classification optimization},
+  author={Mei, Ning and Grossberg, Michael D and Ng, Kenneth and Navarro, Karen T and Ellmore, Timothy M},
+  journal={Computers in biology and medicine},
+  volume={89},
+  pages={441--453},
+  year={2017},
+  publisher={Elsevier}
+}
 
+```
 - Ellmore, T. M., Reichert, C. P., Ng, K., & Mei, N. (2017). Visual Continuous Recognition Reveals Widespread Cortical Contributions to Scene Memory. bioRxiv, 234609.
 
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data in brief, 18, 1513-1519. doi: 10.1016/j.dib.2018.04.073](https://www.ncbi.nlm.nih.gov/pubmed/29904654)

@@ -25,19 +25,21 @@
 ---
 
 # Publication
+
+- [Mei, N. Santana, R., & Soto, D. (2022). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Nat Hum Behav (2022). https://doi.org/10.1038/s41562-021-01274-7](https://www.nature.com/articles/s41562-021-01274-7) [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4.abstract)
+
+- [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
+
+- [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (2020). Similar history biases for distinct prospective decisions of self-performance. Scientific Reports, 10:5854. Doi:10.1038/s41598-020-62719-z](https://www.nature.com/articles/s41598-020-62719-z)
+
+- [Mei, N., Flinker, A., Zhu, M., Cai, Q., And Tian, X. (2020). Lateralization in the dichotic listening of tones is influenced by the content of speech. Neuropsychologia](https://www.researchgate.net/publication/339151652_Lateralization_in_the_dichotic_listening_of_tones_is_influenced_by_the_content_of_speech)
+
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2017). Identifying sleep spindles with multichannel EEG and classification optimization. Computers in biology and medicine, 89, 441-453.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5650544/)
 
 - Ellmore, T. M., Reichert, C. P., Ng, K., & Mei, N. (2017). Visual Continuous Recognition Reveals Widespread Cortical Contributions to Scene Memory. bioRxiv, 234609.
 
 - [Mei, N., Grossberg, M. D., Ng, K., Navarro, K. T., & Ellmore, T. M. (2018). A high-density scalp EEG dataset acquired during brief naps after a visual working memory task. Data in brief, 18, 1513-1519. doi: 10.1016/j.dib.2018.04.073](https://www.ncbi.nlm.nih.gov/pubmed/29904654)
 
-- [Mei, N., Flinker, A., Zhu, M., Cai, Q., And Tian, X. (2020). Lateralization in the dichotic listening of tones is influenced by the content of speech. Neuropsychologia](https://www.researchgate.net/publication/339151652_Lateralization_in_the_dichotic_listening_of_tones_is_influenced_by_the_content_of_speech)
-
-- [Mei, N., Rankine, S., Olafsson, E., & Soto, D. (2020). Similar history biases for distinct prospective decisions of self-performance. Scientific Reports, 10:5854. Doi:10.1038/s41598-020-62719-z](https://www.nature.com/articles/s41598-020-62719-z)
-
-- [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)
-
-- [Mei, N. Santana, R., & Soto, D. (2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Bioarxiv, version 4](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4)
 
 ---
 

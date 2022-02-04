@@ -34,6 +34,7 @@
   journal={Nature Human Behavior},
   year={2022},
   DOI={\url{https://doi.org/10.1038/s41562-021-01274-7}}
+  publisher={Springer}
 }
 ```
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)

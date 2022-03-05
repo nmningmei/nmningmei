@@ -1,7 +1,7 @@
 ### Hi there, this is a CV of **Ning Mei** 👋
 
 
-- Ph.D (in progress): Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
+- Ph.D (expect in Nov. 2022): Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
 - Email: n.mei@bcbl.eu
 - Website: https://github.com/nmningmei/nmningmei
 - Open Science Framework: https://osf.io/chav7/
@@ -134,7 +134,7 @@
       - Running psychophysics experiments, fMRI experiments, data analysis (M/EEG, fMRI, behavioral, etc)
       - Ongoing project:
       
-            a. [Benchmarking decoding models of Spanish/Basque conscious/unconscious noun words in various conditions (i.e. read, dep process, social conditions)](https://github.com/nmningmei/METASEMA_encoding_model)
+            a. [Benchmarking decoding models of Spanish/Basque conscious/unconscious noun words in various conditions (i.e. shallow/deep process, social conditions)](https://github.com/nmningmei/METASEMA_encoding_model)
       
             b. [How computer vision and semantic representation models provide insights of unconscious processing of object images and their semantic categories](https://github.com/nmningmei/unconfeats)
             

@@ -106,6 +106,8 @@
 
 - Mei, N., & Soto, D. (2019, September). Predicting human prospective beliefs and decisions to engage using multivariate classification analyses of behavioural data. Cognitive Computational Neuroscience Conference, Berline, Germany.
 
+- Mei, N., Santana, R., & Soto, D. (2021, December). [Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks](https://youtu.be/tUGAc78acZA). Flash talk: NeuroMatch conference 2021.
+
 ---
 # Tutorials
 

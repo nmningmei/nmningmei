@@ -236,7 +236,7 @@
     - Model Evaluation, Data Visualization, Lambda Functions,
     - Extensions of Python such as MNE-python (specialize in EEG, MEG data analysis), Nipype (specialize in fMRI)
     - Pandas
-    - Deep learning (Tensorflow/Keras, pytorch)
+    - Deep learning (Tensorflow/Keras, pytorch, JAX)
     - Import and export excel, matlab, SPSS, and SAS files. Extract, transform, and load databases.               
 
 4. Excellent – SPSS
@@ -244,7 +244,8 @@
     - Nonparametric tests
     - Factorial Analysis
     - Principle Component Analysis
-    - Independent Component Analysis                              
+    - Independent Component Analysis  
+                            
 5. **Excellent – R**
     - Parametric tests
     - Nonparametric tests
@@ -257,7 +258,8 @@
     - Equations and special effects in presentation slides, posters    
 
 7. Beginner – Julia
-    - Julia ikernel interacting with Jupyter projects                                                                  
+    - Julia ikernel interacting with Jupyter projects     
+    - Deep learning (FLUX)                                                             
 
 ---
 

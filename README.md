@@ -27,15 +27,17 @@
 
 # Publication
 
-- [Mei, N. Santana, R., & Soto, D. (2022). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks, Nature Human Behavior. https://doi.org/10.1038/s41562-021-01274-7](https://www.nature.com/articles/s41562-021-01274-7) [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4.abstract)
+- [Mei, N., Santana, R. & Soto, D. Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks. Nat Hum Behav 6, 720–731 (2022). https://doi.org/10.1038/s41562-021-01274-7](https://www.nature.com/articles/s41562-021-01274-7) [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4.abstract)
 ```
-@article{ning2022informative,
-  title={Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks},
+@article{mei2022informative,
+  title={Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks},
   author={Mei, Ning and Santana, Roberto and Soto, David},
-  journal={Nature Human Behavior},
+  journal={Nature Human Behaviour},
+  volume={6},
+  number={5},
+  pages={720--731},
   year={2022},
-  DOI={\url{https://doi.org/10.1038/s41562-021-01274-7}}
-  publisher={Springer}
+  publisher={Nature Publishing Group}
 }
 ```
 - [Soto, D., Sheikh, U.A., Mei, N., & Santana, R. (2020). Decoding and encoding models reveal the role of mental simulation in the brain representation of meaning. Royal Society Open Science, 7:192043. Doi: 10.1098/rsos.192043](https://royalsocietypublishing.org/doi/full/10.1098/rsos.192043)

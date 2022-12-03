@@ -12,14 +12,17 @@
 # EDUCATION
 1. In progress
 <br />Basque Center for Brain, Cognitive, and Language (BCBL), Donostia/San Sebastian, Basque, Spain
+<br />Generative models of consciousness and metacognition of the human brain
+2. 2022
+<br />Basque Center for Brain, Cognitive, and Language (BCBL), Donostia/San Sebastian, Basque, Spain
 <br />Ph.D in Cognitive Neuroscience
-2. 2016
+3. 2016
 <br />New York University (NYU), New York, NY, US
 <br />M.A in Psychology (General)
-3. 2014
+4. 2014
 <br />Arizona State University (ASU), Tempe, AZ, US
 <br />B.A. in Psychology (minor in Statistics)        
-4. 2012
+5. 2012
 <br />Guangzhou University of Traditional Chinese Medicine (UTCM), Guangzhou,Guangdong, China
 <br />B.S. in Applied Psychology
 

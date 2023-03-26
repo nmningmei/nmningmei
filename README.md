@@ -30,6 +30,19 @@
 
 # Publication
 
+- [Mei, N., Rahnev, D. & Soto, D. Using serial dependence to predict confidence across observers and cognitive domains. Psychon Bull Rev (2023). https://doi.org/10.3758/s13423-023-02261-x](https://link.springer.com/article/10.3758/s13423-023-02261-x#citeas)
+```
+@article{mei2023using,
+  title={Using serial dependence to predict confidence across observers and cognitive domains},
+  author={Mei, Ning and Rahnev, Dobromir and Soto, David},
+  journal={Psychonomic Bulletin \& Review},
+  pages={1--13},
+  year={2023},
+  publisher={Springer}
+}
+
+```
+
 - [Mei, N., Santana, R. & Soto, D. Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks. Nat Hum Behav 6, 720–731 (2022). https://doi.org/10.1038/s41562-021-01274-7](https://www.nature.com/articles/s41562-021-01274-7) [biorxiv](https://www.biorxiv.org/content/10.1101/2021.01.12.426428v4.abstract)
 ```
 @article{mei2022informative,

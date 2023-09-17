@@ -10,9 +10,9 @@
 ---
 
 # EDUCATION
-1. In progress
+1. 2023
 <br />Basque Center for Brain, Cognitive, and Language (BCBL), Donostia/San Sebastian, Basque, Spain
-<br />Generative models of consciousness and metacognition of the human brain
+<br />Postdoctorate, Generative models of consciousness and metacognition of the human brain
 2. 2022
 <br />Basque Center for Brain, Cognitive, and Language (BCBL), Donostia/San Sebastian, Basque, Spain
 <br />Ph.D in Cognitive Neuroscience

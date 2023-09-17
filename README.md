@@ -1,7 +1,7 @@
 ### Hi there, this is a CV of **Ning Mei** 👋
 
 
-- Ph.D (expect in Nov. 2022): Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
+- Ph.D & postdoc: Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
 - Email: n.mei@bcbl.eu
 - Website: https://github.com/nmningmei/nmningmei
 - Open Science Framework: https://osf.io/chav7/

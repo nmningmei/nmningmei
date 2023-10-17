@@ -1,8 +1,8 @@
 ### Hi there, this is a CV of **Ning Mei** 👋
 
-- Assistant professor: Psychology department, Shenzhen University, Shenzhen, Guangdong, China
+- Associate professor: Psychology department, Shenzhen University, Shenzhen, Guangdong, China
 - Ph.D & postdoc: Basque Center for Brain, Cognitive, and Language (BCBL), Donostia, Spain
-- Email: n.mei@bcbl.eu
+- Email: meining at szu.edu.cn
 - Website: https://github.com/nmningmei/nmningmei
 - Open Science Framework: https://osf.io/chav7/
 - Openneuro: https://openneuro.org/datasets/ds003927/versions/1.0.1

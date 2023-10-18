@@ -127,6 +127,9 @@
 
 - Mei, N., Santana, R., & Soto, D. (2021, December). [Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks](https://youtu.be/tUGAc78acZA). Flash talk: NeuroMatch conference 2021.
 
+- Mei, N., Santana, R., & Soto, D. (June, 2021). Informative neural representations of unseen objects during higher-order processing in human brains and deep artificial networks. Oral presentation at Association for the Scientific Study of Consciousness, Israel,  Virtual Conference.
+
+- Mei, N., Santana, R., & Soto, D. (October, 2022). Informative neural representations of unseen contents during higher-order processing in human brains and deep artificial networks. Oral presentation at Scientific Conference about Attention RECA XIII, Granada, Spain.
 ---
 # Tutorials
 

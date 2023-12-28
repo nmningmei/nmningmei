@@ -9,7 +9,8 @@
 
 ---
 # **Hiring postdoctoral researchers all year round**
-- please specify in subject: [Postdoc researcher, psychology department, Shenzhen University]()
+- For emails, please specify in subject: [Postdoc researcher, psychology department, Shenzhen University]()
+- Compensation: CNY/year 300,000 -- 500,000 (USD/year 42,465.24 -- 70,775.40)
 ---
 
 # EDUCATION

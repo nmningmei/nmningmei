@@ -9,8 +9,12 @@
 
 ---
 # **Hiring postdoctoral researchers all year round**
-- For emails, please specify in subject: [Postdoc researcher, psychology department, Shenzhen University]()
-- Compensation: CNY/year 300,000 -- 500,000 (USD/year 42,465.24 -- 70,775.40)
+- Supervisor: [Prof. Qi Chen](https://psy.szu.edu.cn/info/1018/1070.htm)
+- Topic:
+<br />\t flexibility of higher-order cognition function, OCD behavior and neural mechanism
+<br />\t neual mechanism of attention and the computational modeling of attentions
+- Contact: chenqi at szu.edu.cn
+- Desired experience: experience with MRI, MEG and TMS; coding in Python and R is a plus
 ---
 
 # EDUCATION

@@ -13,7 +13,7 @@
 - Topic:
 <br />\t flexibility of higher-order cognition function, OCD behavior and neural mechanism
 <br />\t neual mechanism of attention and the computational modeling of attentions
-- Contact: chenqi at szu.edu.cn
+- Contact: chenqi@szu.edu.cn
 - Desired experience: experience with MRI, MEG and TMS; coding in Python and R is a plus
 ---
 

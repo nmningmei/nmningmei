@@ -9,12 +9,13 @@
 
 ---
 # **Hiring postdoctoral researchers all year round**
-- Supervisor: [Prof. Qi Chen](https://psy.szu.edu.cn/info/1018/1070.htm)
+- Supervisor: [Prof. Qi Chen](https://psy.szu.edu.cn/info/1018/1070.htm) and/or [Dr. Ning Mei](https://github.com/nmningmei)
 - Topic:
 <br />\t flexibility of higher-order cognition function, OCD behavior and neural mechanism
 <br />\t neual mechanism of attention and the computational modeling of attentions
 - Contact: chenqi@szu.edu.cn
 - Desired experience: experience with MRI, MEG and TMS; coding in Python and R is a plus
+- Salary: ¥500,000 - 80,000 ($69,000 - 110,000 or EUR64,000 - 103,000)
 ---
 
 # EDUCATION

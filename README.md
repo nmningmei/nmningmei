@@ -15,7 +15,8 @@
 <br />\t neual mechanism of attention and the computational modeling of attentions
 - Contact: chenqi@szu.edu.cn
 - Desired experience: experience with MRI, MEG and TMS; coding in Python and R is a plus
-- Salary: ¥500,000 - 80,000 ($69,000 - 110,000 or EUR64,000 - 103,000)
+- Annual salary: ¥500,000 - 80,000 ($69,000 - 110,000 or EUR64,000 - 103,000)
+- Location: Shenzhen, China (South of China, one of metropolitan cities of China, 45 minutes train from Center Hong Kong, 1 hour ship from Macau)
 ---
 
 # EDUCATION

@@ -40,6 +40,19 @@
 
 # Publication
 
+- [Mei, N., & Soto, D. (2025). Brain representation in conscious and unconscious vision. Journal of Cognition, 8(1), 34.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12047638/)
+```
+@article{mei2025brain,
+  title={Brain representation in conscious and unconscious vision},
+  author={Mei, Ning and Soto, David},
+  journal={Journal of Cognition},
+  volume={8},
+  number={1},
+  pages={34},
+  year={2025}
+}
+```
+
 - [Mei, N., Rahnev, D. & Soto, D. Using serial dependence to predict confidence across observers and cognitive domains. Psychon Bull Rev (2023). https://doi.org/10.3758/s13423-023-02261-x](https://link.springer.com/article/10.3758/s13423-023-02261-x#citeas)
 ```
 @article{mei2023using,
